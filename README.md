@@ -83,20 +83,35 @@ The datasets used include:
 
 ## Screenshots
 **1.** This dashboard page provides detailed information about the power hitters. It includes metrics such as bowling average, strike rate, dot ball percentage, and economy rate for these players. Additionally, you can view a scatter plot showing the relationship between economy rate and bowling strike rate for different players.
+
 ![Screenshot (318)](https://github.com/RenukaSutone/T20-Worldcup-end-to-end-Data-Analysis/assets/76682535/cdff49d8-62e0-4d2d-b27a-728d94714a30)
+
 **2.** You can view a player's performance.
+
 ![Screenshot (319)](https://github.com/RenukaSutone/T20-Worldcup-end-to-end-Data-Analysis/assets/76682535/05c1f18c-f8a3-4053-82c9-a9fc711c5054)
+
 **3.** You can also view the combined performance of two players. 
+
 ![Screenshot (320)](https://github.com/RenukaSutone/T20-Worldcup-end-to-end-Data-Analysis/assets/76682535/39e9e128-bbb1-4857-b31c-87508f42b8e3)
+
 **4.** This dashboard page provides detailed information about the Anchors. It includes metrics such as bowling average, strike rate, Boundary% and Average balls faced ra for these players. Additionally, you can view a scatter plot showing the relationship between strike rate and Batting Average for different players.
+
 ![Screenshot (323)](https://github.com/RenukaSutone/T20-Worldcup-end-to-end-Data-Analysis/assets/76682535/59d8d91c-ce12-485e-b89d-a60f6324ad89)
+
 **5.** This dashboard page provides detailed information about the Finishers. It includes metrics such as Batting Average,Batting Strike rate,Average balls faced and Bowling Strike rate for these players. Additionally, you can view a scatter plot showing the relationship between batting average and strike rate for different players.
+
 ![Screenshot (324)](https://github.com/RenukaSutone/T20-Worldcup-end-to-end-Data-Analysis/assets/76682535/6cbf9839-c6e0-4680-8ed6-d6765a2b79e9)
+
 **6.** This dashboard page provides detailed information about the All Rounders.
+
 ![Screenshot (325)](https://github.com/RenukaSutone/T20-Worldcup-end-to-end-Data-Analysis/assets/76682535/cb4e14d6-9487-4cd7-aa70-bd3afc843717)
+
 **7.**This dashboard page provides detailed information about the Specialist fast Bowlers.
+
 ![Screenshot (326)](https://github.com/RenukaSutone/T20-Worldcup-end-to-end-Data-Analysis/assets/76682535/37fcb92e-a3ce-4467-8b90-2e0d8a489714)
+
 **8.**This dashboard page provides detailed information about the Final 11 players based on statistical performance.
+
 ![Screenshot (321)](https://github.com/RenukaSutone/T20-Worldcup-end-to-end-Data-Analysis/assets/76682535/df46fda7-90df-49f8-9ea4-0a77c85a46ac)
 
 
