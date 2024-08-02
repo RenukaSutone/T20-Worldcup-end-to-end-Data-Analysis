@@ -106,11 +106,11 @@ The datasets used include:
 
 ![Screenshot (325)](https://github.com/RenukaSutone/T20-Worldcup-end-to-end-Data-Analysis/assets/76682535/cb4e14d6-9487-4cd7-aa70-bd3afc843717)
 
-**7.**This dashboard page provides detailed information about the Specialist fast Bowlers.
+**7.** This dashboard page provides detailed information about the Specialist fast Bowlers.
 
 ![Screenshot (326)](https://github.com/RenukaSutone/T20-Worldcup-end-to-end-Data-Analysis/assets/76682535/37fcb92e-a3ce-4467-8b90-2e0d8a489714)
 
-**8.**This dashboard page provides detailed information about the Final 11 players based on statistical performance.
+**8.** This dashboard page provides detailed information about the Final 11 players based on statistical performance.
 
 ![Screenshot (321)](https://github.com/RenukaSutone/T20-Worldcup-end-to-end-Data-Analysis/assets/76682535/df46fda7-90df-49f8-9ea4-0a77c85a46ac)
 
